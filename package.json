@@ -1,0 +1,15 @@
+{
+  "name": "bokrah",
+  "version": "1.0.0",
+  "description": "bokrah an accounting system",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "author": "mahfoud-sa",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.4.0"
+  }
+}
